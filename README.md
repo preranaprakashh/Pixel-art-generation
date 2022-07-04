@@ -31,7 +31,7 @@ Label B : https://drive.google.com/file/d/1ko4sGkiIppFH9248_7LVYiyHpzU6OFQp/view
 
 ##### Epochs  : 10
 
-##### Lambda (learning rate)  : 10
+##### Lambda (learning rate)  : 2e-4
 
 ##### Batch Size : 10
 
